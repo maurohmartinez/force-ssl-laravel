@@ -1,5 +1,5 @@
 {
-  "name": "mhmartinez/force-ssl-laravel",
+  "name": "maurohmartinez/force-ssl-laravel",
   "description": "A simple package to force SSL requests",
   "type": "library",
   "require": {
